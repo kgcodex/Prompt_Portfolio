@@ -8,7 +8,8 @@ Input: nums = [2,7,11,15], target = 9
 Output: [0,1]
 
 ## Claude Sonnet Response
-`py
+```
+
 def python_fun(nums: list[int], target: int) -> list[int]:
     
     Find two numbers in the list that add up to target and return their indices.
@@ -40,4 +41,4 @@ def python_fun(nums: list[int], target: int) -> list[int]:
     
     # If no solution found, raise an error
     raise ValueError("No two numbers add up to the target")
-`
+```
