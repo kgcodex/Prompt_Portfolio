@@ -8,7 +8,7 @@ Input: nums = [2,7,11,15], target = 9
 Output: [0,1]
 
 ## Claude Sonnet Response
-```
+```py
 
 def python_fun(nums: list[int], target: int) -> list[int]:
     
