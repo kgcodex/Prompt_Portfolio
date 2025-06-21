@@ -48,6 +48,7 @@ Input:
 "The 'Everest' hiking backpack features a 60-liter capacity, multiple compartments for organization, and a durable waterproof design. It's ideal for multi-day treks."
 
 ## Chatgpt GPT-4o
+```json
 {
   "product_name": "Everest Hiking Backpack",
   "category": "Outdoor Gear",
@@ -58,3 +59,4 @@ Input:
   ],
   "suitable_for": ["Multi-day treks"]
 }
+```
